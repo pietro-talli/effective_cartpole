@@ -36,7 +36,7 @@ python train_the_control_policy.py
 This script trains a different policy for all the different number of codewords of the quantizers. 
 
 ### Train the Sensor Policy
-To train the Sensor policy three examples are reported in [sensor_training_test.py](link). Run:
+To train the Sensor policy three examples are reported in [sensor_training_test.py](https://github.com/pietro-talli/effective_cartpole/blob/main/sensor_training_test.py). Run:
 ```
 python sensor_training_test.py
 ```
