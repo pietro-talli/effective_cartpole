@@ -34,3 +34,10 @@ To train the controller to learn a policy based on the encoded observations use:
 python train_the_control_policy.py
 ```
 This script trains a different policy for all the different number of codewords of the quantizers. 
+
+### Train the Sensor Policy
+To train the Sensor policy three examples are reported in [sensor_training_test.py](link). Run:
+```
+python sensor_training_test.py
+```
+to train the Sensor policy.
