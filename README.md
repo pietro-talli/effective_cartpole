@@ -1,6 +1,6 @@
 # Semantic and Effective Communication with Dynamic Feature Compression
 
-This repo containes the code of the work "Semantic and Effective Communication with Dynamic Feature Compression".
+This repo containes the code of the work "Semantic and Effective Communication with Dynamic Feature Compression". [`Quantizer.py`](https://pages.github.com/)
 
 ## Code usage
 
@@ -23,3 +23,9 @@ Run:
 python train_the_regressor.py
 ```
 to train a regressor to estimate the physical state values. A regression network is obtained for every quantizer. 
+
+### Train the Controller (effective task)
+To train the controller to learn a policy based on the encoded observations use:
+```
+
+```
