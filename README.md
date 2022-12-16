@@ -19,7 +19,7 @@ To obtain multiple quantizers from an existing Encoder-Decoder pair run:
 ```
 python new_quantizer.py
 ```
-This will create a se of new quantizer with respectively 32, 16, 8, 4 and 2 codewords. 
+This will create a set of new quantizer with respectively 32, 16, 8, 4 and 2 codewords. 
 
 ### Train the regressor (semantic task)
 Run:
