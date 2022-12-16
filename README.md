@@ -31,5 +31,6 @@ to train a regressor to estimate the physical state values. A regression network
 ### Train the Controller (effective task)
 To train the controller to learn a policy based on the encoded observations use:
 ```
-
+python train_the_control_policy.py
 ```
+This script trains a different policy for all the different number of codewords of the quantizers. 
