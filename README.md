@@ -17,3 +17,9 @@ python new_quantizer.py
 ```
 This will create a se of new quantizer with respectively 32, 16, 8, 4 and 2 codewords. 
 
+### Train the regressor (semantic task)
+Run:
+```
+python train_the_regressor.py
+```
+to train a regressor to estimate the physical state values. A regression network is obtained for every quantizer. 
