@@ -1,6 +1,6 @@
 # Titolo del paper
 
-This repo containes the code of the work "Titolo del paper". [Quantizer.py](https://github.com/pietro-talli/effective_cartpole/blob/main/Quantizer.py)
+This repo contains the code of the work "Titolo del paper". [Quantizer.py](https://github.com/pietro-talli/effective_cartpole/blob/main/Quantizer.py)
 contains the main Neural Network models. While in [utils.py](https://github.com/pietro-talli/effective_cartpole/blob/main/utils.py) there are the main functions to train the models. In particular
 - `train_sensor_policy_PSNR`: trains the Sensor policy with respect to the technical problem
 - `train_sensor_policy_semantically`: trains the Sensor policy for the semantic problem 
